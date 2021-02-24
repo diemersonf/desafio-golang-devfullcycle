@@ -6,4 +6,5 @@ O que é.
 Perfil
 ======
 
-link da imagem no dockerhub: docker pull diemerson/codeeducation:latest
+link da imagem no dockerhub: 
+Imagem go: docker pull diemerson/codeeducation:latest
