@@ -7,5 +7,4 @@ Imagem Go
 =========
 
 link da imagem no dockerhub: 
-[Imagem go:](docker pull diemerson/codeeducation:latest)
- docker pull diemerson/codeeducation:latest
+Imagem go: docker pull diemerson/codeeducation:latest
